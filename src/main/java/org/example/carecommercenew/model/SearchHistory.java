@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Search_history {
+public class SearchHistory {
 
     @Id
     private int id;
